@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="CPPVersionControlled.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="NewBranch1File.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Feature.h" />
