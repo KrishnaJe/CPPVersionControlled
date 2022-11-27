@@ -5,7 +5,7 @@
 
 int main()
 {
-	std::cout << "Feature Branch \n\n";
+	std::cout << "Main Branch Text \n\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
