@@ -5,7 +5,7 @@
 
 int main()
 {
-	std::cout << "Main Branch Text \n\n";
+	std::cout << "Feature Branch And Main Branch Merged with conflict solved \n\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
